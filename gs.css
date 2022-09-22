@@ -64,3 +64,15 @@ color: bisque;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blueviolet;
 }
+table.table
+{
+    border:3mm;
+    color: gold;
+    text-align: center;
+    padding: 60px;
+    margin: 20px;
+}
+tr:nth-child(even)
+{
+    background-color: dodgerblue;
+}
